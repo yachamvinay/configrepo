@@ -1,4 +1,4 @@
 my:
-  greeting: Welcome to Cloud Config Server
+  greeting: Welcome to Cloud Config Server Management
   list:
     values: apple,banana,mango
