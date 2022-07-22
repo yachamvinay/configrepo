@@ -1,0 +1,18 @@
+{
+    "name": "application",
+    "profiles": [
+        "default"
+    ],
+    "label": null,
+    "version": "f643d42da03f2f6f80aaa59cf892355db15dfd4c",
+    "state": null,
+    "propertySources": [
+        {
+            "name": "D:\\Spring_Boot\\Config/file:C:\\Users\\vinay\\AppData\\Local\\Temp\\config-repo-17015170976958017997\\application.yml",
+            "source": {
+                "my.greeting": "Welcome to GreatLearning",
+                "my.list.values": "apple,banana,mango"
+            }
+        }
+    ]
+}
